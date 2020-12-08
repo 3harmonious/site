@@ -10,7 +10,7 @@
 </head>
 <body>
 <left><img src="icon-ka.png"></left>
-	<left><a href="chat.html"><img src="chat-button.png"></a></left><img src="БФВП.bmp"><right><img src="zadat-vopros-avtoru-button.png"></right>
+	<left><a href="https://3harmonious.github.io/site/chat.html"><img src="chat-button.png"></a></left><img src="БФВП.bmp"><right><img src="zadat-vopros-avtoru-button.png"></right>
 <center><img src="разработчики.bmp"></center>
 
 </body>
